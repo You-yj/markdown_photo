@@ -46,44 +46,15 @@
     </div>
 </div>
 
-<div align="center" style="display: flex; gap: 70px; flex-wrap: wrap; justify-content: center;">
-    <!-- 第一张图 -->
-    <div style="width: 200px;">
-        <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/image%204.png?raw=true" width="200" />
-        <p style="margin-top: 10px; font-size: 10px; color: #faf8f8; ">非结构三角形网格</p>
-    </div>
-    <!-- 第二张图 -->
-    <div style="width: 200px;">
-        <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/image%202.png?raw=true" width="200" />
-        <p style="margin-top: 10px; font-size: 10px; color: #faf8f8; ">非结构多边形网格</p>
-    </div>
-    <!-- 第三张图 -->
-    <div style="width: 200px;">
-        <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/image.png?raw=true" width="200" />
-        <p style="margin-top: 10px; font-size: 10px; color: #faf8f8; ">混合网格</p>
-    </div>
-</div>
-<div align="center" style="display: flex; gap: 70px; flex-wrap: wrap; justify-content: center;">
-    <!-- 第一张图 -->
-    <div style="width: 200px;">
-        <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/image%207.png?raw=true" width="200" />
-        <p style="margin-top: 10px; font-size: 10px; color: #faf8f8; ">平面网格</p>
-    </div>
-    <!-- 第二张图 -->
-    <div style="width: 200px;">
-        <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/%E5%9B%BE%E7%89%872.png?raw=true" width="185" />
-        <p style="margin-top: 10px; font-size: 10px; color: #faf8f8; ">曲面网格</p>
-    </div>
-    <!-- 第三张图 -->
-    <div style="width: 200px;">
-        <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/%E5%9B%BE%E7%89%873.png?raw=true" width="185" />
-        <p style="margin-top: 10px; font-size: 10px; color: #faf8f8; ">实体网格</p>
-    </div>
-</div>
+
 
 |                        结构三角形网格                        |                        结构多边形网格                        |                        结构六面体网格                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/image%209.png?raw=true" width="200"/> | <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/image%205.png?raw=true" width="200"/> | <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/%E7%BD%91%E6%A0%BC%E7%9A%84%E5%88%86%E7%B1%BB.png?raw=true" width="200"/> |
+
+|                                                              |                                                              |                                                              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/image%204.png?raw=true" width="200"/><br><small style="color:#faf8f8">非结构三角形网格</small> | <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/image%202.png?raw=true" width="200"/><br><small style="color:#faf8f8">非结构多边形网格</small> | <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/image.png?raw=true" width="200"/><br><small style="color:#faf8f8">混合网格</small> |
 
 # 二、FEALPy 中的网格数据结构
 
