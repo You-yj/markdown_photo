@@ -22,7 +22,11 @@
 
 按离散几何的拓扑维度，可以分为平面网格、曲面网格、实体网格。
 
-
+<div align="center" style="display: flex; gap: 70px; flex-wrap: wrap; justify-content: center;">
+        <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/image%209.png?raw=true" width="200" />
+        <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/image%205.png?raw=true" width="200" />
+        <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/%E7%BD%91%E6%A0%BC%E7%9A%84%E5%88%86%E7%B1%BB.png?raw=true" width="200" />
+</div>
 
 <div align="center" style="display: flex; gap: 70px; flex-wrap: wrap; justify-content: center;">
     <!-- 第一张图 -->
