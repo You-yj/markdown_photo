@@ -109,19 +109,8 @@
 
 > 最高拓扑维数为 2 时，`edge` 和 `face` 指代同一类实体。
 
-<div align="center" style="display: flex; gap: 70px; flex-wrap: wrap; justify-content: center;">
-    <!-- 第一张图 -->
-    <div style="width: 200px;">
-        <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/%E5%9B%BE%E7%89%875.png?raw=true" width="200" />
-        <p style="margin-top: 10px; font-size: 12px; color: #faf8f8; ">最高拓扑维数为2</p>
-    </div>
-    <!-- 第二张图 -->
-    <div style="width: 200px;">
-        <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/%E5%9B%BE%E7%89%876.png?raw=true" width="200" />
-        <p style="margin-top: 10px; font-size: 12px; color: #faf8f8; ">最高拓扑维数为3</p>
-    </div>
-</div>
-
+| <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/%E5%9B%BE%E7%89%875.png?raw=true" width="200"/><br><small style="font-size:12px;color:#faf8f8">最高拓扑维数为2</small> | <img src="https://github.com/You-yj/markdown_photo/blob/main/fealpy%E7%BD%91%E6%A0%BC%E5%9F%BA%E7%A1%80_photo/%E5%9B%BE%E7%89%876.png?raw=true" width="200"/><br><small style="font-size:12px;color:#faf8f8">最高拓扑维数为3</small> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 ## （3）基于数组表示的网格数据结构
 
