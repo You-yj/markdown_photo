@@ -11,7 +11,7 @@
 - $S$ 为定向封闭曲面，$S$ 的单位法向量为 $\mathbf{n}$ ，取 $S$ 上的面元 $\mathrm d S$，定义**有向面元** $\mathrm d\mathbf S = \mathbf{n}\,\mathrm d S$；
 - $V$为 $S$ 围成的体积，取 $V$ 上的体积元 $\mathrm dV$；
 - $L$ 为定向封闭曲线，取 $L$ 上的线元 $\mathrm d l$，定义**有向线元** $\mathrm d\mathbf l$；
-- 引入 $\nabla$ 算子 ：$\nabla = \left( \frac{\partial}{\partial x},\; \frac{\partial}{\partial y},\; \frac{\partial}{\partial z} \right)$；
+- 引入 $\nabla$ 算子 ：$\nabla = \left( \frac{\partial}{\partial x}, \frac{\partial}{\partial y}, \frac{\partial}{\partial z} \right)$。
 
 <div align="center">
     <img src="https://github.com/You-yj/markdown_photo/blob/main/%E6%9C%80%E7%BE%8E%E6%96%B9%E7%A8%8B%E7%BB%84%E4%B9%8B%E4%B8%80%EF%BC%9AMaxwell%E6%96%B9%E7%A8%8B%E7%BB%84/Figure_1.png?raw=true" width="300" />
@@ -20,7 +20,7 @@
 </div>
 ### 第二型曲面积分
 
-对于 $\mathbf{F}$，定义通过 $\mathrm d S$ 的流量为 $\mathrm d N = \mathbf{F} \cdot \mathrm d\mathbf S = \mathbf{F} \cdot \mathbf{n}\,\mathrm d S$
+对于 $\mathbf{F}$，定义通过 $\mathrm d S$ 的流量为 $\mathrm d N = \mathbf{F} \cdot \mathrm d\mathbf S = \mathbf{F} \cdot \mathbf{n}\,\mathrm d S$。
 
 关于 $S$ 的第二型曲面积分为：
 \[
