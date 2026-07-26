@@ -14,9 +14,9 @@
 - 引入 $\nabla$ 算子 ：$\nabla = \left( \frac{\partial}{\partial x},\; \frac{\partial}{\partial y},\; \frac{\partial}{\partial z} \right)$；
 
 <div align="center">
-    <img src="https://github.com/You-yj/markdown_photo/blob/main/%E6%9C%80%E7%BE%8E%E6%96%B9%E7%A8%8B%E7%BB%84%E4%B9%8B%E4%B8%80%EF%BC%9AMaxwell%E6%96%B9%E7%A8%8B%E7%BB%84/Figure_1.png?raw=true" width="350" />
-    <img src="https://github.com/You-yj/markdown_photo/blob/main/%E6%9C%80%E7%BE%8E%E6%96%B9%E7%A8%8B%E7%BB%84%E4%B9%8B%E4%B8%80%EF%BC%9AMaxwell%E6%96%B9%E7%A8%8B%E7%BB%84/Figure_2.png?raw=true" width="350" />
-    <img src="https://github.com/You-yj/markdown_photo/blob/main/%E6%9C%80%E7%BE%8E%E6%96%B9%E7%A8%8B%E7%BB%84%E4%B9%8B%E4%B8%80%EF%BC%9AMaxwell%E6%96%B9%E7%A8%8B%E7%BB%84/Figure_3.png?raw=true" width="350" />
+    <img src="https://github.com/You-yj/markdown_photo/blob/main/%E6%9C%80%E7%BE%8E%E6%96%B9%E7%A8%8B%E7%BB%84%E4%B9%8B%E4%B8%80%EF%BC%9AMaxwell%E6%96%B9%E7%A8%8B%E7%BB%84/Figure_1.png?raw=true" width="300" />
+    <img src="https://github.com/You-yj/markdown_photo/blob/main/%E6%9C%80%E7%BE%8E%E6%96%B9%E7%A8%8B%E7%BB%84%E4%B9%8B%E4%B8%80%EF%BC%9AMaxwell%E6%96%B9%E7%A8%8B%E7%BB%84/Figure_2.png?raw=true" width="300" />
+    <img src="https://github.com/You-yj/markdown_photo/blob/main/%E6%9C%80%E7%BE%8E%E6%96%B9%E7%A8%8B%E7%BB%84%E4%B9%8B%E4%B8%80%EF%BC%9AMaxwell%E6%96%B9%E7%A8%8B%E7%BB%84/Figure_3.png?raw=true" width="300" />
 </div>
 ### 第二型曲面积分
 
