@@ -5,6 +5,7 @@
 - `mesh.png`：Dirichlet / 周期节点与网格间距。
 - `heat_stencils.png`：FTCS 与 CN 的节点和系数。
 - `wave_stencils.png`：三层中心差分及非零速度启动。
+- `dissipation_dispersion.png`：振幅衰减与相位偏移的机制示意，并非新增实验结果。
 - `laplace_stencil.png`：二维边界、五点系数。
 - `iteration_order.png`：Jacobi 与字典序 Gauss–Seidel。
 - `upwind_stencils.png`：正负速度的上游节点和带符号权重。
