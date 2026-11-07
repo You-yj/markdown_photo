@@ -8,6 +8,7 @@
 - `dissipation_dispersion.png`：振幅衰减与相位偏移的机制示意，并非新增实验结果。
 - `laplace_stencil.png`：二维边界、五点系数。
 - `iteration_order.png`：Jacobi 与字典序 Gauss–Seidel。
+- `cfl_domains.png`：正、负速度迎风依赖域，特征线与 CFL 超限的几何对比。
 - `upwind_stencils.png`：正负速度的上游节点和带符号权重。
 - `experiment_A.png`、`experiment_B.png`、`experiment_C.png`：实际计算的误差、成本、收敛与数值解。
 
